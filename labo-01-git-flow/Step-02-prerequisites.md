@@ -11,23 +11,12 @@ For Mac, [here is the procedure](https://git-scm.com/download/mac).\
 Pour Linux, [here is the procedure.](https://howtoinstall.co/en/git-flow)
 {% endhint %}
 
-```
-[INPUT]
-//TODO
-
-[OUTPUT]
-//TODO
-```
+Utilisateur de W11, donc il a été installé avec git directement
 
 * [ ] Confirm the installed version
 
-```
-[INPUT]
-//TODO
+![image](https://github.com/JonathanMayorCPNV/Labo-Master-1/assets/115776017/1170f3a6-bdc9-4ab7-a170-90e4662f769f)
 
-[OUTPUT]
-//TODO
-```
 
 * [ ] What do you think about this release?
 
