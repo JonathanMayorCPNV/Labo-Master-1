@@ -10,9 +10,9 @@ For Windows, is natively integrated.\
 For Mac, [here is the procedure](https://git-scm.com/download/mac).\
 Pour Linux, [here is the procedure.](https://howtoinstall.co/en/git-flow)
 {% endhint %}
-
+```
 Utilisateur de W11, donc il a été installé avec git directement
-
+```
 * [ ] Confirm the installed version
 
 ![image](https://github.com/JonathanMayorCPNV/Labo-Master-1/assets/115776017/1170f3a6-bdc9-4ab7-a170-90e4662f769f)
