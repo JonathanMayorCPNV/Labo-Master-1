@@ -64,17 +64,17 @@ Lorsque nous commençons un projet et que nous souhaitons, par la suite, partage
 * [ ] What does this git command "git add -all" achieve (.gitignore impacts)?
 
 ```
-//TODO
+Prépare tout le dossier local afin d'effectuer un commit
 ```
 
 * [ ] What does this git command "git status" achieve?
 
 ```
-//TODO
+Résume le contenu pour le prochain commit
 ```
 
 * [ ] What does this git command "git remote add upstream \<url>" achieve?
 
 ```
-//TODO
+Permet d'ajouter l'url de notre git afin que les prochain push s'effectue sur notre partage
 ```
