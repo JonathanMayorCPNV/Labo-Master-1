@@ -7,48 +7,31 @@
 * [ ] Fork the "upstream" repository in your github organisation
 
 ```
-//TODO
-Screenshot of Github
+![image](https://github.com/JonathanMayorCPNV/Labo-Master-1/assets/115776017/8d9f7f97-34f5-40bf-bbef-5d38591aa8f1)
 ```
 
 * [ ] Clone your own repo in your local machine
 
 ```
-[INPUT]
-//TODO
-
-[OUTPUT]
-//TODO
+![image](https://github.com/JonathanMayorCPNV/Labo-Master-1/assets/115776017/ca6d0153-a0da-41f4-9df7-16035e2f79d0)
 ```
 
 * [ ] Init Git flow (with standard settings)
 
 ```
-[INPUT]
-//TODO
-
-[OUTPUT]
-//TODO
+![image](https://github.com/JonathanMayorCPNV/Labo-Master-1/assets/115776017/cc9570f5-8930-4971-aba8-3f2ea0420a3d)
 ```
 
 * [ ] Integrate updates from upstream (main) into your repository (develop)
 
 ```
-[INPUT]
-//TODO
-
-[OUTPUT]
-//TODO
+![image](https://github.com/JonathanMayorCPNV/Labo-Master-1/assets/115776017/1317b7bc-a29e-4d4f-b131-3ff6900b5b25)
 ```
 
 * [ ] Create a branch feature called "terraformBasicScript"
 
 ```
-[INPUT]
-//TODO
-
-[OUTPUT]
-//TODO
+![image](https://github.com/JonathanMayorCPNV/Labo-Master-1/assets/115776017/1f73d6ae-770c-4c5a-ae57-f8193fbd2ed6)
 ```
 
 * [ ] Add this code and commit it (feat:add basic terraform script")
@@ -81,10 +64,10 @@ resource "aws_instance" "app_server" {
 
 ```
 [INPUT]
-//TODO
+git commit -m "feat:add basic terraform script"
 
 [OUTPUT]
-//TODO
+![image](https://github.com/JonathanMayorCPNV/Labo-Master-1/assets/115776017/63f64f24-f987-48f5-a8cf-2eca97cc9254)
 ```
 
 * [ ] Finish the feature
@@ -101,10 +84,10 @@ resource "aws_instance" "app_server" {
 
 ```
 [INPUT]
-//TODO
+git flow feature finish terraformBasicScript
 
 [OUTPUT]
-//TODO
+J'ai fermer la console CMD j'abandonne ...
 ```
 
 * What happens to the feature/branch ?
