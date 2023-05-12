@@ -21,7 +21,7 @@ Utilisateur de W11, donc il a été installé avec git directement
 * [ ] What do you think about this release?
 
 ```
-//TODO
+Prend les valeurs par défaut du système au lieu de celle de git
 ```
 
 ## What's git-flow, branches feature.
