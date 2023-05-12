@@ -33,13 +33,13 @@ Prend les valeurs par défaut du système au lieu de celle de git
 * [ ] Which branches are persistent and what do they contain?
 
 ```
-//TODO
+Les branches sont Master et Develop, et elles comportent le programme d'oringine dans Main et Develop comporte les mises à jour au fur et à mesure de la progression du développement
 ```
 
 * [ ] Why do we have to merge hotfix in both master and develop branches, but not into all active feature branches?
 
 ```
-//TODO
+Pour que, lors de la prochaine mise à jour, nous aillons le bug fixé et de même pour le Master 
 ```
 
 ## Initialize git flow on an existing project
@@ -47,13 +47,14 @@ Prend les valeurs par défaut du système au lieu de celle de git
 * [ ] What happens when you run the "git flow init" command on an existing local repository?
 
 ```
-//TODO
+ça créer un nouveau répo local 
 ```
+![image](https://github.com/JonathanMayorCPNV/Labo-Master-1/assets/115776017/19fdfd4c-91f6-47ab-8d1f-63678a184d29)
 
 * [ ] When do we need to make this git command?
 
 ```
-//TODO
+Lorsque nous commençons un projet et que nous souhaitons, par la suite, partager sur GIT
 ```
 
 ## Practice the basic git commands
